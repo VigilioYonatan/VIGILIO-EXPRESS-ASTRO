@@ -20,6 +20,8 @@ bun install
 ```bash
 bun dev
 bun serve
+
+# abrir  y trabajar en el cliente y servidor para apis
 ```
 
 3. Produccion
